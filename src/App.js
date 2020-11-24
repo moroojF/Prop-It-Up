@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="container mt-5 text-center App">
-      <div class="row">
+      <div className="row">
         {/* first */}
         <PersonCard
           first_name="Michael"
@@ -14,7 +14,7 @@ function App() {
           hair_color="Blonde"
         />
         {/* 2nd */}
-        <PersonCard first_name="Maria Carolina"
+        <PersonCard first_name="Carolina"
           last_name="Herrera"
           age={81}
           hair_color="Blonde"
