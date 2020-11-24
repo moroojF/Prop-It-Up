@@ -25,6 +25,12 @@ function App() {
           last_name="Amell" age={39}
           hair_color="Brown"
         />
+        {/* 4th */}
+        <PersonCard
+          first_name="Robbie"
+          last_name="Amell" age={32}
+          hair_color="Dark Brown"
+        />
       </div>
     </div>
   );
